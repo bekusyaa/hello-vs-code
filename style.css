@@ -1,0 +1,31 @@
+.mybtn {
+    --bs-btn-border-radius: none;
+}
+
+hr { 
+    color: white;
+}
+
+ul { 
+    margin-left: -200px;
+}
+
+.text-end {
+    margin-right: -200px;
+}
+.myh1 {
+    margin-top: -150px;
+}
+
+.myp {
+    margin-top: 30px;
+}
+
+.h11{
+    text-align: center;
+}
+
+.myp12 {
+    text-align: center;
+}
+
